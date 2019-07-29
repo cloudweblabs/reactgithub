@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/reactgithub/static/css/main.6a5f8963.chunk.css",
+    "main.js": "/reactgithub/static/js/main.6894c56e.chunk.js",
+    "main.js.map": "/reactgithub/static/js/main.6894c56e.chunk.js.map",
+    "runtime~main.js": "/reactgithub/static/js/runtime~main.00ba7cee.js",
+    "runtime~main.js.map": "/reactgithub/static/js/runtime~main.00ba7cee.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/reactgithub/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.923c19b6.chunk.js": "/reactgithub/static/js/2.923c19b6.chunk.js",
+    "static/js/2.923c19b6.chunk.js.map": "/reactgithub/static/js/2.923c19b6.chunk.js.map",
+    "index.html": "/reactgithub/index.html",
+    "precache-manifest.b904b160e131c6c301e835967d913521.js": "/reactgithub/precache-manifest.b904b160e131c6c301e835967d913521.js",
+    "service-worker.js": "/reactgithub/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/reactgithub/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.6a5f8963.chunk.css.map": "/reactgithub/static/css/main.6a5f8963.chunk.css.map",
+    "static/media/loading.gif": "/reactgithub/static/media/loading.3f2c979b.gif"
+  }
+}
